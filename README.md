@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FF7C6&width=435&lines=go+run+main.go)](https://git.io/typing-svg)
 <!--
 **kkb-1/kkb-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
